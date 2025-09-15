@@ -91,8 +91,7 @@ This machine learning project focuses on predicting "cab fare amount", "fuel con
 ---
 
 # How to Run the Project
- ```bash
-   git clone https://github.com/yourusername/cab-fare-prediction.git
+ 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/cab-fare-prediction.git
