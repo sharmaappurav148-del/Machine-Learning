@@ -1,1 +1,36 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
 
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files
+*.csv
+*.tsv
+*.data
+*.zip
+
+# Model files
+*.pkl
+*.joblib
+
+# Logs and outputs
+*.log
+logs/
+output/
+runs/  # If using tools like MLflow
+
+# Environment variables
+.env
+.env.*
+
+# VSCode settings
+.vscode/
